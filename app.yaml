@@ -1,0 +1,13 @@
+runtime: python39
+env: standard
+
+handlers:
+- url: /
+  script: web.app
+- url: /zoom
+  script: oauth.app
+- url: /zoom_callback
+  script: oauth.app
+
+includes:
+  - secrets.yaml

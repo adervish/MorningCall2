@@ -1,0 +1,1116 @@
+
+1
+00:00:00.000 --> 00:00:02.780
+lucy tang: It's a test.
+
+2
+00:00:05.080 --> 00:00:14.739
+Eric Domb: Apparently. There's Zoom has a new yeah, is summarization tool. I've been meaning to try. We tried a different like a third party one before that was not good.
+
+3
+00:00:14.800 --> 00:00:23.229
+Yaroslav: Yeah, we're gonna try to multi shot it and give it a bunch of examples of notes and see if we can get it to
+
+4
+00:00:23.240 --> 00:00:26.390
+Eric Domb: produce something that's more like what we're looking for.
+
+5
+00:00:28.790 --> 00:00:30.179
+Eric Domb: Too bad we don't have
+
+6
+00:00:30.210 --> 00:00:32.240
+Eric Domb: recordings of our calls.
+
+7
+00:00:33.290 --> 00:00:34.890
+Eric Domb: That'd be great training data
+
+8
+00:00:35.150 --> 00:00:36.040
+Alex Derbes - Gilder Gagnon Howe & Co: art.
+
+9
+00:00:36.210 --> 00:00:42.970
+Alex Derbes - Gilder Gagnon Howe & Co: I'm I'm not sure because I wouldn't train it. We just multi shot it. But the other.
+
+10
+00:00:43.410 --> 00:00:50.620
+Alex Derbes - Gilder Gagnon Howe & Co: I think what we'd like to get to is to hire Tomas's company to
+
+11
+00:00:51.140 --> 00:00:53.629
+Alex Derbes - Gilder Gagnon Howe & Co: listen to the calls, create a
+
+12
+00:00:53.670 --> 00:00:55.559
+Alex Derbes - Gilder Gagnon Howe & Co: summary and save nothing.
+
+13
+00:00:55.790 --> 00:01:01.870
+Alex Derbes - Gilder Gagnon Howe & Co:  because I don't think we want to save it on an ongoing basis.
+
+14
+00:01:01.970 --> 00:01:02.640
+Eric Domb: No.
+
+15
+00:01:07.400 --> 00:01:08.130
+Alex Derbes - Gilder Gagnon Howe & Co: thanks.
+
+16
+00:01:09.600 --> 00:01:17.149
+Eric Domb: Carson's last day is Friday. So you can get that going by Monday.
+
+17
+00:01:27.850 --> 00:01:29.920
+Carson Trail: Why does it keep switching my video off?
+
+18
+00:01:31.090 --> 00:01:32.340
+Carson Trail: Okay, now, it works
+
+19
+00:01:56.730 --> 00:01:59.700
+Karen Legotte: anything exciting happening. I'm in the car driving.
+
+20
+00:02:13.320 --> 00:02:22.380
+Alex Derbes - Gilder Gagnon Howe & Co: You guys saw what they using to do with the Chinese Evs. I saw that they're looking at china subsidizing
+
+21
+00:02:23.030 --> 00:02:24.230
+Alex Derbes - Gilder Gagnon Howe & Co: Evs.
+
+22
+00:02:27.390 --> 00:02:32.229
+lucy tang: It seems like what Yaroslav proposed might could play out. Might play out
+
+23
+00:02:34.180 --> 00:02:36.229
+Alex Derbes - Gilder Gagnon Howe & Co: Nick fit. Just put a tariff on it.
+
+24
+00:02:40.650 --> 00:02:45.410
+lucy tang: Oh, if there's price, I mean, if they're now no longer super cheap.
+
+25
+00:02:46.840 --> 00:02:48.529
+Alex Derbes - Gilder Gagnon Howe & Co: they'll still be super cheap.
+
+26
+00:03:01.240 --> 00:03:03.729
+Alex Derbes - Gilder Gagnon Howe & Co: If you take an $11,000
+
+27
+00:03:03.830 --> 00:03:07.270
+Alex Derbes - Gilder Gagnon Howe & Co:  view id seagull.
+
+28
+00:03:08.400 --> 00:03:12.229
+Alex Derbes - Gilder Gagnon Howe & Co: and you put a 30% tariff on it. It's still probably the cheapest car in Europe.
+
+29
+00:03:25.750 --> 00:03:30.499
+Karen Legotte: Daca, the cheapest car in Europe, is a Daca
+
+30
+00:03:30.810 --> 00:03:34.710
+Alex Derbes - Gilder Gagnon Howe & Co: sandero, which is $11,000,
+
+31
+00:03:39.850 --> 00:03:41.870
+Karen Legotte: maybe Mitsubishi.
+
+32
+00:03:42.040 --> 00:03:56.689
+Karen Legotte: Did you guys see the thing about diesel in Australia that they are running out of Diesel because their fires have closed and they can't extract the lithium needed for batteries, and it could be
+
+33
+00:03:56.760 --> 00:03:58.539
+Karen Legotte: problem if they can't
+
+34
+00:03:58.620 --> 00:04:00.500
+Karen Legotte: continue to process.
+
+35
+00:04:01.040 --> 00:04:08.410
+Alex Derbes - Gilder Gagnon Howe & Co: You're saying that the lithium mines in Australia use Diesel and Australia is running out of Diesel.
+
+36
+00:04:08.820 --> 00:04:14.470
+Karen Legotte: Yes, refined, refined Diesel, they can't. It has to be imported from Singapore
+
+37
+00:04:18.070 --> 00:04:28.690
+Karen Legotte: and Korea. and they don't have any refining capability in the country, and all of their extraction and mining is dependent upon Diesel fuel.
+
+38
+00:04:29.420 --> 00:04:31.469
+Eric Domb: What did something happen?
+
+39
+00:04:31.530 --> 00:04:34.030
+Eric Domb: Why why are they all of a sudden Diesel?
+
+40
+00:04:34.160 --> 00:04:44.739
+Karen Legotte: Well, 3 of their plants have been decommissioned, and they haven't put any new money into a plant so like one plant closed in like 18. Another plant closed.
+
+41
+00:04:44.830 --> 00:04:51.670
+Karen Legotte: I there's a ho! A whole series of their plans coming offline, and they haven't put new money into it because they were
+
+42
+00:04:51.720 --> 00:05:02.500
+Karen Legotte: just easily transporting it. But it takes 2 weeks for it to get to them. And now, with supply chain issues since the pandemic. It's becoming more of a problem, but they still haven't made any investments.
+
+43
+00:05:03.060 --> 00:05:06.209
+Karen Legotte: This is broadly that
+
+44
+00:05:06.300 --> 00:05:10.109
+Alex Derbes - Gilder Gagnon Howe & Co: the rig and see drill
+
+45
+00:05:11.180 --> 00:05:12.410
+Alex Derbes - Gilder Gagnon Howe & Co: thesis.
+
+46
+00:05:13.090 --> 00:05:14.880
+Karen Legotte: So are you long that stock
+
+47
+00:05:15.100 --> 00:05:30.950
+Alex Derbes - Gilder Gagnon Howe & Co: I bought both of them. Yeah. And I think I'm gonna buy this one called Diamond, too. Well, they're not diesels in Australia specifically. And and maybe you're right that the refiners are the place that's been under invested. But,
+
+48
+00:05:31.260 --> 00:05:48.650
+Alex Derbes - Gilder Gagnon Howe & Co: the the the broad claim is that nobody's invested in any hydrocarbon based energy source for a couple of years and and that the you know us is the largest petroleum exporter in the world. Or
+
+49
+00:05:48.800 --> 00:05:57.169
+Alex Derbes - Gilder Gagnon Howe & Co: produce no largest producer in the world, and that still is, and but the you know, the the
+
+50
+00:05:58.810 --> 00:06:23.449
+Alex Derbes - Gilder Gagnon Howe & Co: the the shale gas stuff, the shale oil you know, has this really steep decline curve. So like all of that's declining, nobody's invested in capacity. And at the same time all of these technological advances and standardization of offshore have brought the cost of looking for oil offshore down to about the same price as the shale. People are very close to it, and nobody's bought ships
+
+51
+00:06:23.450 --> 00:06:40.010
+Alex Derbes - Gilder Gagnon Howe & Co: in years. There aren't that many drill rigs. And so, as people you know, finally start to look for oil again, to replace the decline curves from the onshore shale. You can see
+
+52
+00:06:40.010 --> 00:06:52.420
+Karen Legotte: 85. Something like that, I think. What you want to look at is the break even price. So offshore versus onshore.
+
+53
+00:06:52.530 --> 00:06:55.299
+Alex Derbes - Gilder Gagnon Howe & Co: ye? Yeah. And
+
+54
+00:06:58.490 --> 00:06:59.290
+Alex Derbes - Gilder Gagnon Howe & Co: yeah.
+
+55
+00:06:59.410 --> 00:07:06.140
+Alex Derbes - Gilder Gagnon Howe & Co: So here's an article that says, I mean, this actually claims that offshore is cheaper than onshore. This might not be in the Us. Though
+
+56
+00:07:06.710 --> 00:07:07.630
+what
+
+57
+00:07:08.950 --> 00:07:13.919
+Karen Legotte: Us. Bill is like $85 and
+
+58
+00:07:14.350 --> 00:07:15.900
+Karen Legotte: Foxtel was like
+
+59
+00:07:16.030 --> 00:07:17.000
+35
+
+60
+00:07:17.500 --> 00:07:21.880
+Karen Legotte: Saudi Arabia was like $26.
+
+61
+00:07:23.060 --> 00:07:29.759
+Alex Derbes - Gilder Gagnon Howe & Co: I think it really depends. Right? Okay, so this says, the offshore break even price.
+
+62
+00:07:29.780 --> 00:07:34.199
+Alex Derbes - Gilder Gagnon Howe & Co: This was written in 2023 and says the offshore break, even price is $40
+
+63
+00:07:35.770 --> 00:07:38.819
+Karen Legotte: 40 bucks. That's
+
+64
+00:07:39.270 --> 00:07:43.329
+much better than onshore. Say, what does it say
+
+65
+00:07:43.800 --> 00:07:47.140
+Karen Legotte: when it's updated? Because I think my numbers might be a little stale.
+
+66
+00:07:48.640 --> 00:07:53.179
+II just I think you're right that we have to like. It really changes so fast
+
+67
+00:07:53.380 --> 00:07:59.230
+Alex Derbes - Gilder Gagnon Howe & Co: that it's it's hard to to PIN down. I think the important part is just that while offshore wasn't competitive
+
+68
+00:07:59.480 --> 00:08:03.290
+Alex Derbes - Gilder Gagnon Howe & Co: 5 years ago. And shale, you know, kind of
+
+69
+00:08:03.340 --> 00:08:05.949
+Alex Derbes - Gilder Gagnon Howe & Co: replace that that it is competitive. Now.
+
+70
+00:08:07.140 --> 00:08:10.830
+Karen Legotte: what about the environmental aspect of that.
+
+71
+00:08:12.500 --> 00:08:14.050
+Karen Legotte: Is that a big hurdle?
+
+72
+00:08:14.320 --> 00:08:24.409
+Alex Derbes - Gilder Gagnon Howe & Co: II don't. You I mean Charles and Birmingham, I think, are much deeper into this than I am. I talked to them, and then I talked to a friend of mine who's a
+
+73
+00:08:24.460 --> 00:08:29.559
+Alex Derbes - Gilder Gagnon Howe & Co: All he does is energy investing in in Louisiana runs a little hedge fund.
+
+74
+00:08:29.770 --> 00:08:37.209
+Karen Legotte: and he's the person who told me that that one of the important things to pay attention to is that the break even price for offshore has come down so much.
+
+75
+00:08:42.620 --> 00:08:48.370
+Alex Derbes - Gilder Gagnon Howe & Co: He also said, this one diamond which I'm thinking about buying. He likes better than see drill and rag.
+
+76
+00:08:50.130 --> 00:08:54.549
+Karen Legotte: one diamond it's called. No, it's called diamond. The ticker's Dl.
+
+77
+00:08:56.100 --> 00:09:03.180
+Karen Legotte: do they grow like anything like like in our wheelhouse about these oil goes to 120 they'll grow.
+
+78
+00:09:07.540 --> 00:09:09.250
+Karen Legotte: Thanks, though.
+
+79
+00:09:10.170 --> 00:09:17.650
+James Deutsch: I mean they're not gonna add new ships. They're gonna grow. The rate at which they charge for their services. If there's increased demand for it.
+
+80
+00:09:19.500 --> 00:09:25.220
+James Deutsch: Alex was saying that there aren't enough, so they'll have to charge more for the ones they have.
+
+81
+00:09:27.180 --> 00:09:31.949
+Karen Legotte: But is that gonna increase capacity. That was
+
+82
+00:09:34.580 --> 00:09:40.219
+Alex Derbes - Gilder Gagnon Howe & Co: th. The idea would be that the day rate day rate doubles
+
+83
+00:09:41.020 --> 00:09:42.010
+we are.
+
+84
+00:09:42.380 --> 00:09:52.590
+Alex Derbes - Gilder Gagnon Howe & Co: And so they sign these long term contracts with the drilling companies, the companies looking for oil and that they get, you know, twice as much
+
+85
+00:09:52.690 --> 00:09:57.519
+Alex Derbes - Gilder Gagnon Howe & Co: per day. For the rigs in 2025 as they do today.
+
+86
+00:09:59.000 --> 00:10:05.280
+Karen Legotte: Most contracts are canceled. no prices come down and
+
+87
+00:10:06.440 --> 00:10:07.430
+Karen Legotte: cancel.
+
+88
+00:10:17.750 --> 00:10:19.489
+James Deutsch: I mean, you're making a
+
+89
+00:10:20.300 --> 00:10:23.930
+tactical bet on a near term increase
+
+90
+00:10:24.410 --> 00:10:26.260
+James Deutsch: in offshore
+
+91
+00:10:27.420 --> 00:10:29.220
+James Deutsch: drilling. I mean. I
+
+92
+00:10:30.340 --> 00:10:34.149
+James Deutsch: I'm I'm trying to distill the bed down to to something simple.
+
+93
+00:10:34.470 --> 00:10:39.129
+Alex Derbes - Gilder Gagnon Howe & Co: Yeah, I'm making a bet that
+
+94
+00:10:41.150 --> 00:10:44.659
+Alex Derbes - Gilder Gagnon Howe & Co: that. Yes, I'm making a bet that
+
+95
+00:10:45.460 --> 00:10:47.400
+Alex Derbes - Gilder Gagnon Howe & Co: that.
+
+96
+00:10:48.510 --> 00:11:07.050
+Alex Derbes - Gilder Gagnon Howe & Co: a lot of oil companies wanna make more money in 2026 and 27 and 28. And to do that, they need to invest in finding more oil in 2024 and 2025, and that Charles, is texting me.
+
+97
+00:11:08.880 --> 00:11:19.840
+James Deutsch: I don't know why he's not just talking. How does this industry works? Someone at Bp. Is now looking at an offshore project that they just got seismic back on for 2025.
+
+98
+00:11:19.860 --> 00:11:34.140
+James Deutsch: And they're calling all the people. And someone saying does not enough rigs out there. And so they're saying, Okay, well, don't order the pipe yet. Let me talk to the rig, Guy, and they're signing now affirm contract for rigs at a certain rate in 2025.
+
+99
+00:11:34.180 --> 00:11:58.449
+Alex Derbes - Gilder Gagnon Howe & Co: Yeah, so like that right? Some of the stuff about this diamond one Charles, is texting me at, are you here, Charles? Okay. So I will read Charles's text, messages offshore G. Offshore gains share or production, and there've been no investment in offshore infrastructure for a decade. And yeah, so like Diamond, who I was reading about?
+
+100
+00:11:58.490 --> 00:12:19.019
+Alex Derbes - Gilder Gagnon Howe & Co: They they're signing like like they've got. They'll only have 6 rigs, and so they're they're signing, you know, like commitments for people to take those rigs for like a hundred days in 2024. And they're filling out this dance card, and you know somebody wants the rig in Nigeria, and then somebody else wants it in the Gulf of Mexico, and they're booked. They're booked through 24.
+
+101
+00:12:19.240 --> 00:12:29.580
+Alex Derbes - Gilder Gagnon Howe & Co: They are booked through 24 at rates that are significantly higher than this year, and massively higher than 2 years ago.
+
+102
+00:12:29.850 --> 00:12:35.310
+James Deutsch: And and your bet, then, is that in 24
+
+103
+00:12:35.910 --> 00:12:40.830
+James Deutsch: they will take bookings for 25 at higher rates. Still.
+
+104
+00:12:40.840 --> 00:12:53.129
+James Deutsch: that's that's what that's gonna trade on. Because if 25 is below 24. They're not gonna care that there are any more in 24. So you're betting that a number of projects are gonna get greenlit in 24
+
+105
+00:12:54.410 --> 00:12:57.850
+James Deutsch: that are at higher rates than the commitments for 24.
+
+106
+00:12:58.550 --> 00:12:59.430
+Alex Derbes - Gilder Gagnon Howe & Co: Yeah.
+
+107
+00:13:03.640 --> 00:13:05.110
+Yaroslav: Can't help, but
+
+108
+00:13:05.570 --> 00:13:10.589
+Yaroslav: by mine travel back to 2,008 when
+
+109
+00:13:11.210 --> 00:13:19.350
+Yaroslav: oil was going up every day. and the economy was flowing rapidly.
+
+110
+00:13:20.680 --> 00:13:26.270
+Yaroslav: And and is is this some sort of anticipation of earnings power that even
+
+111
+00:13:26.930 --> 00:13:39.700
+Yaroslav:  device? So by constraining supply that supply supply would be constraint. Not that the rig level even, but you know, even though they they'll start
+
+112
+00:13:40.560 --> 00:13:48.360
+Yaroslav:  exploration or production offshore, that they're still going. They're not gonna produce too much
+
+113
+00:13:50.590 --> 00:13:53.529
+Yaroslav: right? Is this some sort of anticipation of.
+
+114
+00:13:54.120 --> 00:13:59.370
+Yaroslav: you know, price increases in the face of generally kind of broad, slowdown.
+
+115
+00:14:01.220 --> 00:14:03.220
+Alex Derbes - Gilder Gagnon Howe & Co: This.
+
+116
+00:14:03.640 --> 00:14:06.110
+Alex Derbes - Gilder Gagnon Howe & Co: I think that there's
+
+117
+00:14:06.190 --> 00:14:09.190
+Alex Derbes - Gilder Gagnon Howe & Co: 3 aspects to this.
+
+118
+00:14:09.240 --> 00:14:18.820
+Alex Derbes - Gilder Gagnon Howe & Co: there's a whole lot less competition now than there was, and regulations have made it very difficult to create more competition
+
+119
+00:14:19.270 --> 00:14:24.239
+Alex Derbes - Gilder Gagnon Howe & Co: demand the the the big thing you've gotta believe, which is probably the thing that I'm
+
+120
+00:14:24.450 --> 00:14:43.809
+Alex Derbes - Gilder Gagnon Howe & Co: the most worried about is that demand for oil isn't gonna fall off a cliff because of people moving to Evs, etc., etc., etc., faster than expected. Right, they have visibility from their customers about likely
+
+121
+00:14:44.000 --> 00:14:50.239
+Yaroslav: demand. No, nobody knows what demand for oil is going to be next year. I mean, you just answered that
+
+122
+00:14:50.750 --> 00:14:53.739
+Alex Derbes - Gilder Gagnon Howe & Co: we've no idea what the economy in China is going to be next year.
+
+123
+00:14:54.930 --> 00:14:59.859
+Alex Derbes - Gilder Gagnon Howe & Co: Nobody knows what their their cost. Nobody can tell you what demand for oil is going to be next year.
+
+124
+00:15:00.810 --> 00:15:03.890
+Alex Derbes - Gilder Gagnon Howe & Co: If they could, then they'd retire. Right?
+
+125
+00:15:06.060 --> 00:15:06.930
+Yaroslav: Well.
+
+126
+00:15:09.980 --> 00:15:10.670
+hmm!
+
+127
+00:15:11.980 --> 00:15:18.090
+James Deutsch: I would propose you and panelists subcommittee to discuss making cyclical commodity trades.
+
+128
+00:15:20.980 --> 00:15:26.940
+Yaroslav: II the only the only data we have is how the stuff created in 2,008,
+
+129
+00:15:27.100 --> 00:15:41.160
+James Deutsch: I mean, on on the contrary, you have 100 years of data. You have 4,000 people working at every commodity hedge fund and market maker and long term hedging options. Retailer the
+
+130
+00:15:42.420 --> 00:15:44.770
+James Deutsch: there's there's no shortage of data here.
+
+131
+00:15:45.140 --> 00:15:46.310
+Karen Legotte: Exactly.
+
+132
+00:15:46.770 --> 00:15:54.510
+Yaroslav: That's right. No. But point that I have is that oil traded wildly bullish way.
+
+133
+00:15:55.720 --> 00:16:07.680
+James Deutsch: But that's all. It's point. There's nobody could predict anything. You have a thousand people running in circles, chasing their tail, analyzing all the data, and they can't make any sense of it. So we're not really at any disadvantage, even though we don't know anything either.
+
+134
+00:16:18.680 --> 00:16:19.350
+Right?
+
+135
+00:16:19.530 --> 00:16:26.610
+James Deutsch: Crazy things happen. Oil goes up, all goes down. Look at what happened. Interest rates. People don't, can't predict these things.
+
+136
+00:16:29.090 --> 00:16:31.009
+James Deutsch: It may be the case that
+
+137
+00:16:31.770 --> 00:16:34.589
+James Deutsch: oil stays higher for longer in that
+
+138
+00:16:35.170 --> 00:16:38.600
+James Deutsch: that's one bed and the other bed is that oil goes back down
+
+139
+00:16:41.030 --> 00:16:41.910
+Yaroslav: right?
+
+140
+00:16:48.790 --> 00:16:50.589
+James Deutsch: I mean that that's there's no.
+
+141
+00:16:52.000 --> 00:16:56.139
+James Deutsch: that's what that is. If oil goes down 15 points, the stocks are going down.
+
+142
+00:17:00.790 --> 00:17:03.199
+Yaroslav: So I'm wondering if this means
+
+143
+00:17:03.820 --> 00:17:06.260
+Yaroslav: if if oil does go up.
+
+144
+00:17:06.839 --> 00:17:22.119
+James Deutsch: I don't think you need oil to go, I think if it just stays at this price, then you'll make whatever the curve has to do.
+
+145
+00:17:26.650 --> 00:17:30.120
+James Deutsch: I mean, I do. You want to predict it stays at this price?
+
+146
+00:17:31.170 --> 00:17:33.190
+Alex Derbes - Gilder Gagnon Howe & Co: I don't want to predict the price of oil.
+
+147
+00:17:33.980 --> 00:17:35.059
+James Deutsch: Well, I'm not
+
+148
+00:17:35.300 --> 00:17:39.309
+Alex Derbes - Gilder Gagnon Howe & Co: II, my bet is that I'm making an asymmetric bet.
+
+149
+00:17:39.820 --> 00:17:55.919
+Alex Derbes - Gilder Gagnon Howe & Co: My my bad is that I believe that the price that the price of oil, the market to be efficient about the price of oil, and all of the risks from the market in China, and all of this other stuff are accurately forecast and
+
+150
+00:17:56.500 --> 00:18:13.209
+Alex Derbes - Gilder Gagnon Howe & Co: and but further down the supply chain. There are reasons that the economic return of these businesses that provide this asset required in order to create more supply which will be necessary. Are are mispriced.
+
+151
+00:18:13.630 --> 00:18:27.899
+Yaroslav: I think that if I knew that the demand for my commodity product was going to go down. I would try to produce less of my commodity
+
+152
+00:18:28.720 --> 00:18:30.840
+Yaroslav: and keep my prices higher.
+
+153
+00:18:31.660 --> 00:18:32.649
+James Deutsch: Okay, there's a
+
+154
+00:18:33.530 --> 00:19:03.529
+James Deutsch: you're a tiny part of a giant market. There's 1,000 people trying to figure out exactly, how does Saudi Arabia interact with this? How does individual oil company be interact with this? What all of those companies are doing is saying, Hey, we have this field here that has assets there. How much will it cost us to develop it? What might we be able to get for those for that product. Well, that's why they're partel right? So that they can do the same thing in unison.
+
+155
+00:19:03.720 --> 00:19:05.180
+Yaroslav: They decide.
+
+156
+00:19:05.670 --> 00:19:08.429
+Yaroslav: oh, demand is going down.
+
+157
+00:19:08.690 --> 00:19:21.150
+Yaroslav: So I'm going to make sure that my prices are high for the people that can't live without my commodity. Right? But that might be very good for the company's. Alex is betting on, because
+
+158
+00:19:21.160 --> 00:19:34.300
+Yaroslav: asking about the implication on the rest of the economy, that what this actually their action may be signaling that the rest of the economy. The consumers of the users of oil are actually in trouble
+
+159
+00:19:34.830 --> 00:19:37.389
+Yaroslav: that they're signaling lower demand.
+
+160
+00:19:38.800 --> 00:19:42.050
+Yaroslav: and they're seeing prices being increased on them
+
+161
+00:19:46.170 --> 00:19:50.279
+James Deutsch: not really.
+
+162
+00:19:50.980 --> 00:19:51.850
+Charles Levy: I believe.
+
+163
+00:19:56.490 --> 00:19:59.109
+Alex Derbes - Gilder Gagnon Howe & Co: Charles, text me, and I'll read it.
+
+164
+00:20:03.060 --> 00:20:22.220
+Alex Derbes - Gilder Gagnon Howe & Co: Look, Yarrow, you might be right, and this is some, you know, Knight's Templar conspiracy, and there really is a secret society manipulating entire world economy. I'm certainly willing to believe that it's true. I think it's really hard for people to keep secrets and
+
+165
+00:20:22.430 --> 00:20:28.029
+Yaroslav: and I'm manipulating. They're simply responding to the economic signals they see.
+
+166
+00:20:30.420 --> 00:20:33.509
+Alex Derbes - Gilder Gagnon Howe & Co: Okay, well. I'm not even sure what we're arguing.
+
+167
+00:20:33.630 --> 00:20:36.090
+James Deutsch: They're discussing. Well, II think what
+
+168
+00:20:37.570 --> 00:20:47.470
+James Deutsch: might be saying, and it comports with some of the things they've read is that you know, Saudi Arabia is cutting production of oil, keeping price high
+
+169
+00:20:48.030 --> 00:20:49.320
+James Deutsch: because
+
+170
+00:20:49.510 --> 00:21:08.280
+James Deutsch: they have economists, or whatever are worried that they're seeing less, demand long term, demand from their customers less people showing up and saying, Hey, give us 5 years of oil, 3 years of oil. And so they're worried about demand in the midterm. And so they're cutting prices to keep cutting
+
+171
+00:21:08.670 --> 00:21:11.539
+James Deutsch: production now to keep prices high.
+
+172
+00:21:12.040 --> 00:21:20.250
+Yaroslav: That's right, that's exactly right, and that when that and then, when that softness shows, there'll be nothing they can do to protect the price.
+
+173
+00:21:20.480 --> 00:21:31.969
+James Deutsch: because the cartel will break. and they will need the money for tax revenue and all of that, and they'll end up pumping more at 60 than they're pumping now at 90 to balance their budget.
+
+174
+00:21:33.270 --> 00:21:35.620
+James Deutsch: Totally plausible theory. Totally
+
+175
+00:21:35.720 --> 00:21:36.900
+Alex Derbes - Gilder Gagnon Howe & Co: totally.
+
+176
+00:21:37.340 --> 00:21:48.650
+James Deutsch: Saudi Arabia certainly has a team of economists that's trying to predict what's the best strategy for the country, based on the demand that they see. And and they have lots of demand information
+
+177
+00:21:48.910 --> 00:21:56.749
+James Deutsch: about a factor here that wants 3 years of this many barrels, and you know people do sign long term supply agreements.
+
+178
+00:21:57.800 --> 00:21:58.740
+Yaroslav: That's right.
+
+179
+00:22:13.130 --> 00:22:20.339
+James Deutsch: I remember when you guys had a healthcare call that started at 8 45. Is it? Is it time to start a commodities call that starts at 8 30?
+
+180
+00:22:30.640 --> 00:22:31.900
+Okay.
+
+181
+00:22:33.600 --> 00:22:34.899
+James Deutsch: what else do we have?
+
+182
+00:22:42.250 --> 00:22:52.529
+James Deutsch: Yeah, I'll be in the office later today I went to the Big Solar Conference in Las Vegas yesterday. How was that?
+
+183
+00:22:53.540 --> 00:22:56.340
+Alex Derbes - Gilder Gagnon Howe & Co: It's a mess.
+
+184
+00:22:57.400 --> 00:22:59.419
+Alex Derbes - Gilder Gagnon Howe & Co: It's a lot going on
+
+185
+00:23:01.190 --> 00:23:02.410
+Alex Derbes - Gilder Gagnon Howe & Co: the
+
+186
+00:23:02.740 --> 00:23:13.009
+Alex Derbes - Gilder Gagnon Howe & Co: II mean, the European people had thought the European market was gonna grow 50%. It's you know, they're now saying, maybe 30% is better.
+
+187
+00:23:13.310 --> 00:23:17.650
+Alex Derbes - Gilder Gagnon Howe & Co:  The result of that is that the
+
+188
+00:23:18.050 --> 00:23:26.399
+Alex Derbes - Gilder Gagnon Howe & Co: inventory channel for panels. So panels were, in short supply. So everybody overword panels, and all of these distributors
+
+189
+00:23:26.510 --> 00:23:44.939
+Alex Derbes - Gilder Gagnon Howe & Co: have way more panels than they need, and then the price of panels in Europe went from 55 cents a watt to 35 cents a watt, and so all of these distributors are underwater on their panels and are suffering from significant cash crunches.
+
+190
+00:23:44.950 --> 00:23:55.349
+Alex Derbes - Gilder Gagnon Howe & Co:  And then, you know, the Europeans kind of like figured out the power problem from Russia, and this is like less of a crunch than it was. How how do they figure that out?
+
+191
+00:23:57.450 --> 00:23:59.939
+Alex Derbes - Gilder Gagnon Howe & Co: I haven't really looked into it.
+
+192
+00:24:00.050 --> 00:24:02.979
+Alex Derbes - Gilder Gagnon Howe & Co: I my guess is that
+
+193
+00:24:04.700 --> 00:24:07.009
+Alex Derbes - Gilder Gagnon Howe & Co: that a lot of it was
+
+194
+00:24:07.570 --> 00:24:13.259
+Alex Derbes - Gilder Gagnon Howe & Co: people worry that the the fear was ahead of the reality.
+
+195
+00:24:14.330 --> 00:24:15.160
+Alex Derbes - Gilder Gagnon Howe & Co: But
+
+196
+00:24:16.540 --> 00:24:20.920
+Alex Derbes - Gilder Gagnon Howe & Co: they blew up a pipeline.
+
+197
+00:24:20.970 --> 00:24:26.379
+James Deutsch: They've gotten 0 gas from Russia since, whenever
+
+198
+00:24:26.870 --> 00:24:29.460
+James Deutsch: and what what has Russia been doing with its gas
+
+199
+00:24:29.970 --> 00:24:40.349
+Yaroslav: India and China? They're selling to India, and they can't pipe it to either India or China. So I think they're just not selling it.
+
+200
+00:24:40.470 --> 00:24:43.190
+Yaroslav: They're they're sending ships to India.
+
+201
+00:24:43.480 --> 00:24:48.950
+Alex Derbes - Gilder Gagnon Howe & Co: There's not liquification capacity in Russia to do much of that.
+
+202
+00:24:50.620 --> 00:24:53.529
+Yaroslav: Wow! I guess
+
+203
+00:24:53.620 --> 00:24:56.390
+Eric Domb: they have some new facility up in the North.
+
+204
+00:24:56.550 --> 00:25:04.960
+Alex Derbes - Gilder Gagnon Howe & Co: I I'm sure they do. I think it's also a very small percentage of what they have been sending to Europe. I know they're building a pipeline to China, but it's gonna take like 10 years or something.
+
+205
+00:25:05.060 --> 00:25:13.489
+Yaroslav: I think there's a small existing month to China. It's very small. But so Germany has. I think in 2,018
+
+206
+00:25:13.630 --> 00:25:21.220
+Yaroslav: 2019, they actually put in the line to carry electricity from the Northern States, where they have the the wind.
+
+207
+00:25:23.300 --> 00:25:24.979
+Yaroslav: the Northern territory
+
+208
+00:25:25.130 --> 00:25:32.920
+Yaroslav: down south down to where there are factories. So there's some very small amount of
+
+209
+00:25:33.440 --> 00:25:37.820
+Yaroslav: a manager that's introduce.
+
+210
+00:25:37.920 --> 00:25:41.130
+Yaroslav: That, you know. Probably account probably
+
+211
+00:25:42.040 --> 00:25:47.159
+Yaroslav: accounts for the fact that prices oh, just the prices didn't have to rise so much
+
+212
+00:25:47.210 --> 00:26:14.830
+James Deutsch: gas and oil.
+
+213
+00:26:14.960 --> 00:26:28.740
+Alex Derbes - Gilder Gagnon Howe & Co: They don't seem to be freaking out about it, and they probably also got people to, you know, price signals, and whatever other conservation mechanisms they have got people to cut back demand to the point that they figured out
+
+214
+00:26:29.640 --> 00:26:31.550
+James Deutsch: how much were they getting from Germany?
+
+215
+00:26:32.960 --> 00:26:35.350
+James Deutsch: From Russia? I'm sorry from Russia. Yeah.
+
+216
+00:26:36.720 --> 00:26:37.930
+Alex Derbes - Gilder Gagnon Howe & Co: a lot.
+
+217
+00:26:37.990 --> 00:26:45.490
+Yaroslav: We're probably getting half of their need of their natural gas needs. But natural gas is probably 30 after a total.
+
+218
+00:26:45.900 --> 00:26:55.169
+James Deutsch: So 15 conservation.
+
+219
+00:26:55.430 --> 00:26:59.830
+Yaroslav: And with us sense of being right.
+
+220
+00:27:01.910 --> 00:27:05.719
+Alex Derbes - Gilder Gagnon Howe & Co: So it was 83% of its natural gas from Russia.
+
+221
+00:27:19.540 --> 00:27:26.360
+Alex Derbes - Gilder Gagnon Howe & Co: So before the war it was 83%. And so just for electricity generation
+
+222
+00:27:26.670 --> 00:27:32.929
+Alex Derbes - Gilder Gagnon Howe & Co: was 20%. Natural gas in Europe. And then heating would be another big slug.
+
+223
+00:27:34.230 --> 00:27:36.890
+James Deutsch: I see. So 15% of electricity
+
+224
+00:27:37.980 --> 00:27:39.250
+James Deutsch: had to be offset.
+
+225
+00:27:39.980 --> 00:27:45.159
+Alex Derbes - Gilder Gagnon Howe & Co: Yeah, here is a graph but then the heating is probably
+
+226
+00:27:45.390 --> 00:27:47.449
+Alex Derbes - Gilder Gagnon Howe & Co: at least that much as well.
+
+227
+00:27:50.300 --> 00:27:57.020
+Alex Derbes - Gilder Gagnon Howe & Co: 2 thirds of Europe's energy was made by burning fossil fuels, 34% gas, so 34%
+
+228
+00:27:57.720 --> 00:28:06.309
+Alex Derbes - Gilder Gagnon Howe & Co: of 34% of European energy was gas and 83% of that was Russia. So yeah, that gets you right about 15%.
+
+229
+00:28:18.180 --> 00:28:19.090
+James Deutsch: So
+
+230
+00:28:19.380 --> 00:28:28.129
+James Deutsch: what how? What is this doing for you with respect to various solar investments? Well, that's not the only thing that's going on.
+
+231
+00:28:29.000 --> 00:28:30.070
+Alex Derbes - Gilder Gagnon Howe & Co: the
+
+232
+00:28:30.680 --> 00:28:35.210
+Alex Derbes - Gilder Gagnon Howe & Co: so the Pete, like Solar edge. Who's, you know.
+
+233
+00:28:35.350 --> 00:28:48.229
+Alex Derbes - Gilder Gagnon Howe & Co: pretty deep. So then, the other thing that's happening in Europe is that the Chinese have really been ramping supply into the European market for both panels and inverters.
+
+234
+00:28:48.310 --> 00:29:02.799
+Alex Derbes - Gilder Gagnon Howe & Co: and like Solar Edge claims that they're gonna be fine because nobody in Europe wants to install a Chinese inferver because somebody China can turn off their energy. Which
+
+235
+00:29:04.060 --> 00:29:08.299
+Alex Derbes - Gilder Gagnon Howe & Co: doesn't seem like it's gonna work out very well.
+
+236
+00:29:08.650 --> 00:29:33.880
+Alex Derbes - Gilder Gagnon Howe & Co: And you know, they say, well, you know, we don't really compete with those people, because all the distributors is exactly what they said. All the distributors have like a premium line, and then they have, like a non premium line, and we only compete in the premium line. So we're really only competing with end phase. And we don't compete with all these other people. But that. And it just doesn't seem like that's gonna work right? Like you know, more people will just do the less premium thing. And you know, sure you can have
+
+237
+00:29:33.910 --> 00:29:38.380
+Alex Derbes - Gilder Gagnon Howe & Co: premium premium will shrink as there's more competition.
+
+238
+00:29:39.170 --> 00:29:40.879
+Alex Derbes - Gilder Gagnon Howe & Co: so that's
+
+239
+00:29:41.340 --> 00:29:48.830
+Alex Derbes - Gilder Gagnon Howe & Co: Europe is probably more going on in Europe. The Us. Market is very confusing.
+
+240
+00:29:49.660 --> 00:29:53.350
+Alex Derbes - Gilder Gagnon Howe & Co: The the question is about
+
+241
+00:29:54.500 --> 00:29:58.439
+Alex Derbes - Gilder Gagnon Howe & Co: how much growth there's gonna be next year.
+
+242
+00:29:58.900 --> 00:30:11.820
+Alex Derbes - Gilder Gagnon Howe & Co: Solar Edge, who doesn't have a big Us. Business, says that the markets not gonna in the Us. Isn't gonna grow at all. Next year.  And
+
+243
+00:30:12.160 --> 00:30:28.050
+Alex Derbes - Gilder Gagnon Howe & Co: they say it'll be 5 or 6 quarters before the market grows in the Us. Because at the higher interest rates solar just doesn't make sense in the Us. Because electricity prices aren't high enough.
+
+244
+00:30:28.670 --> 00:30:39.059
+Alex Derbes - Gilder Gagnon Howe & Co: The other companies and I talked to a whole bunch of them sunpower, Taigo, maxion, and phase, probably some other ones
+
+245
+00:30:39.180 --> 00:30:56.760
+Alex Derbes - Gilder Gagnon Howe & Co: who are mix of installers and suppliers. You know. They point to things like these very steep electricity, and I've got a whole list of like how much electricity prices have gone up around the country, and I'll share in a couple of minutes they point to how fast electricity prices have gone up
+
+246
+00:30:57.090 --> 00:31:15.480
+Alex Derbes - Gilder Gagnon Howe & Co: and the inflation reduction act and say, Well, look that more than makes up for any increase in interest rates? And you know you, if you're buying solar in California right now, it's a 5 year payback in San Diego, it's 3 so what's the problem?
+
+247
+00:31:16.890 --> 00:31:23.819
+Alex Derbes - Gilder Gagnon Howe & Co: so that's the Us. Market. it's definitely not like
+
+248
+00:31:24.310 --> 00:31:31.850
+Alex Derbes - Gilder Gagnon Howe & Co: Q. 3 is going to be bad for everybody in the Us. Market, and maybe Q. 4. And
+
+249
+00:31:31.890 --> 00:31:47.860
+Alex Derbes - Gilder Gagnon Howe & Co: the question is, if you know, is flat, sequentially, which would be a good result because it's usually down or if people don't figure out how to sell solar in the United States. With all these new programs.
+
+250
+00:31:47.880 --> 00:31:50.429
+Alex Derbes - Gilder Gagnon Howe & Co: I got a little bit more clarity on
+
+251
+00:31:50.540 --> 00:31:53.930
+Alex Derbes - Gilder Gagnon Howe & Co: what's going on with sunrun. The
+
+252
+00:31:54.700 --> 00:32:08.240
+Alex Derbes - Gilder Gagnon Howe & Co: so this came from Sonova, which is sun, runs probably the largest competitor, I mean, they're a small fraction of the size. But the government the way the Government's intention with all of these adders. So the Ira.
+
+253
+00:32:09.090 --> 00:32:26.840
+Alex Derbes - Gilder Gagnon Howe & Co: the Ira has you know, it was 26% Itc 2 years ago, and the Ira expanded the Itc to 30% if your third party ownership and extended it for 10 years, and then they also added a bunch of adders and their
+
+254
+00:32:26.940 --> 00:32:31.469
+Alex Derbes - Gilder Gagnon Howe & Co: probably more. But there's 4 that I remember off the top of my head, one's domestic content.
+
+255
+00:32:31.620 --> 00:32:54.059
+Alex Derbes - Gilder Gagnon Howe & Co: The other one's an energy community which means that, like some percentage of people historically worked in energy. So it's like all of Houston, it's like tons of things that you wouldn't like New Jersey counts because there's like refineries there. It's like tons of areas. And and that there's a map that Treasury gave. And it's like, you know, anything within this map counts so that one's really easy and people are getting that. Then there's this low income adder
+
+256
+00:32:54.120 --> 00:33:00.159
+James Deutsch: and when you say adder, you mean percentage of the install costs that the government covers
+
+257
+00:33:00.250 --> 00:33:27.960
+Alex Derbes - Gilder Gagnon Howe & Co: correct, and they cover that in a tax credit. And and then the other thing is the third party ownership. People when they flip it to the tax equity. And this has always been this way, and this has been litigated, and it's totally gross. And I completely agree. But it's been this way, you know. Solarcity was, you know, had their offices turned over by the FBI. It was litigated blah blah blah blah blah, but they turn it over to the third party ownership the tax equity flip people at the fair market value. So they're not getting
+
+258
+00:33:27.960 --> 00:33:34.080
+Alex Derbes - Gilder Gagnon Howe & Co: 40%. They're not getting under the regular Itc, they're not getting 30% of the cost. They're getting 30% of what
+
+259
+00:33:34.210 --> 00:33:41.810
+Alex Derbes - Gilder Gagnon Howe & Co: they got. Somebody to say was the fair market value which you can believe is significantly higher than
+
+260
+00:33:42.400 --> 00:34:06.129
+Alex Derbes - Gilder Gagnon Howe & Co: than what they actually spent on the cost. So you know, if they did it for 3 80, maybe they're claiming the fair market value is 4, 80. And so they're getting, you know, 30% of 480. And then with the adders, you can pretty easily get. You know, 40% of the fair market value, which you know is well, north of 50% of the actual cost.
+
+261
+00:34:06.760 --> 00:34:20.119
+Alex Derbes - Gilder Gagnon Howe & Co: and so, okay. But but what's happened is that the that, except for the energy communities adder, all of the other ones were written in such a way that
+
+262
+00:34:21.139 --> 00:34:23.769
+Alex Derbes - Gilder Gagnon Howe & Co: Treasury hasn't
+
+263
+00:34:23.830 --> 00:34:39.259
+Alex Derbes - Gilder Gagnon Howe & Co: figured out how to issue the description of what they are, and in some cases where the intent of the bill had been to make them retroactive. People are really concerned that they're not gonna be able to get retroactive.
+
+264
+00:34:39.400 --> 00:34:54.709
+Alex Derbes - Gilder Gagnon Howe & Co: Ira credits. So that was my interest in Sun Run was and continues to be really that you know, they're gonna get the government to pay for over 50% of these things on day one. And
+
+265
+00:34:55.020 --> 00:35:02.120
+Alex Derbes - Gilder Gagnon Howe & Co: they, you know. Say, they're going to be able to generate 500 million dollars in like actual free cash flow
+
+266
+00:35:02.150 --> 00:35:05.290
+Alex Derbes - Gilder Gagnon Howe & Co: sometime starting sometime next year.
+
+267
+00:35:05.460 --> 00:35:17.529
+Alex Derbes - Gilder Gagnon Howe & Co: but it sounds like the implementation of these bills and the the you know, and how long it's taking the Treasury Department to issue any kind of clarity is really modeling that.
+
+268
+00:35:19.940 --> 00:35:26.800
+Alex Derbes - Gilder Gagnon Howe & Co: And it's it's worse than Sunrun had thought. And, in fact, like, according to Sonova, Sunrun was
+
+269
+00:35:26.840 --> 00:35:49.159
+Alex Derbes - Gilder Gagnon Howe & Co: quoting prices to people assuming that Treasury would get this sorted out in 6 months. And now it looks like it's not gonna be 6 months. It's gonna be, you know, 9 or 12 months. And it might not be retroactive, and sun runs upset because they're like, look we did, dear Treasury Department. We did what you said you wanted. You know, but this is a mess. So I think that's
+
+270
+00:35:49.510 --> 00:35:52.680
+Alex Derbes - Gilder Gagnon Howe & Co: probably one of the things that's going on in the sun run.
+
+271
+00:35:58.410 --> 00:36:04.130
+Alex Derbes - Gilder Gagnon Howe & Co: Everybody is super negative on the entire space. Like I.
+
+272
+00:36:04.950 --> 00:36:07.740
+Alex Derbes - Gilder Gagnon Howe & Co: The the sentiment is just terrible.
+
+273
+00:36:13.810 --> 00:36:16.109
+James Deutsch: Sounds like you should buy solar in short oil.
+
+274
+00:36:16.700 --> 00:36:17.920
+Alex Derbes - Gilder Gagnon Howe & Co: Probably
+
+275
+00:36:18.810 --> 00:36:22.949
+James Deutsch: that's kind of what I was thinking to. Alright if you want to read the list.
+
+276
+00:36:28.140 --> 00:36:35.669
+Eric Domb: Birmingham soul. Most of the American Tower sort of Getty Cormac shorted Oxford industries
+
+277
+00:36:37.880 --> 00:36:43.929
+Eric Domb:  guys the shorts and more. JP. Morgan.
+
+278
+00:36:44.380 --> 00:36:45.050
+Eric Domb: That's it.
+
+279
+00:36:46.320 --> 00:36:47.640
+James Deutsch: Okay, thanks. Everyone.
