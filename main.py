@@ -60,8 +60,7 @@ def handle_request():
     summaries_prompt = request.form.get('summaries_prompt') if request.form.get('summaries_prompt') else summary.SUMMARIES_PROMPT
     companies_prompt = request.form.get('companies_prompt')
     edits_prompt = request.form.get('edits_prompt') if request.form.get('edits_prompt') else summary.EDITS_PROMPT
-    hidden = request.form.get('hidden_results')
-    company_annotated_results = hidden if hidden and len(hidden) > 0 else ""
+    company_annotated_results = request.form.get('hidden_results') if request.form.get('hidden_results')  else ""
     edited_results = ""
     
     topics = parseJSONEmptyIfNone(request.form.get('topics'))
