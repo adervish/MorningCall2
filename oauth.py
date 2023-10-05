@@ -7,10 +7,6 @@ import requests
 import requests.auth
 import urllib
 # Replace these with your Zoom OAuth app credentials
-CLIENT_ID = 'nOmOMtPtTSS6UWZ5QvtGAQ'
-#CLIENT_ID = 'GJs_QHeAQQCC4O6z9avA0w'
-CLIENT_SECRET = 'B1tjkz1c4TSRsboJ7aTE4xxRYhwNQML7'
-#CLIENT_SECRET = 'IosT7yYqkVTRsysW43R9iVcpZnPNOOuz'
 #!/usr/bin/env python
 REDIRECT_URI = "http://localhost:65010/zoom_callback"
 
