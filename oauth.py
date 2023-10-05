@@ -1,7 +1,7 @@
 from flask import Flask, request, redirect
 import requests
 import os
-from flask import Flask, abort, request
+from flask import Flask, abort, request, Blueprint, render_template, abort
 from uuid import uuid4
 import requests
 import requests.auth
@@ -16,8 +16,10 @@ REDIRECT_URI = "http://localhost:65010/zoom_callback"
 
 REFRESH_TOKEN = None
 
-app = Flask(__name__)
-@app.route('/zoom')
+zoom_page = Blueprint('zoom_page', __name__,
+                        template_folder='templates')
+
+@zoom_page.route('/zoom')
 def homepage():
     #tokens = refresh_token(REFRESH_TOKEN)
     #return "Your user info is: %s" % list_recordings(tokens['access_token'])
@@ -36,7 +38,7 @@ def make_authorization_url():
     url = "https://zoom.us/oauth/authorize?" + urllib.parse.urlencode(params)
     return url
 
-@app.route('/zoom_callback')
+@zoom_page.route('/zoom_callback')
 def zoom_callback():
     error = request.args.get('error', '')
     if error:
