@@ -4,8 +4,9 @@ import re
 import sys
 import argparse
 from anthropic import Anthropic, HUMAN_PROMPT, AI_PROMPT
+import os
 
-anthropic = Anthropic(api_key='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')
+anthropic = Anthropic(api_key= os.environ.get('ANTHROPIC_KEY'))
 
 TOPICS_PROMPT = """{HUMAN_PROMPT} Here is a transcript, in <transcript></transcript> XML tags:
 <transcript>{transcript}</transcript>

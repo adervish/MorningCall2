@@ -9,8 +9,9 @@ import urllib
 # Replace these with your Zoom OAuth app credentials
 #!/usr/bin/env python
 REDIRECT_URI = "http://localhost:65010/zoom_callback"
-
 REFRESH_TOKEN = None
+CLIENT_ID = os.getenv('CLIENT_ID')
+CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 
 zoom_page = Blueprint('zoom_page', __name__,
                         template_folder='templates')
