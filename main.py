@@ -3,12 +3,13 @@
 from flask import Flask, request
 import sys
 import summary
-import oauth
+from oauth import zoom_page
 import json
 import re
 import copy
 
 app = Flask(__name__)
+app.register_blueprint(zoom_page)
 
 HTML_FORM = """MAIN <form id=form action=/ method=post>
 <input type=hidden name=step id=step value=topics>
@@ -50,6 +51,10 @@ def parseJSONEmptyIfNone(text):
 
 def dumpJSONEmptyIfNone(j):
     return json.dumps(j, indent=2) if j and len(j) > 0 else ""
+
+@app.route("/zoom", methods=["GET"])
+def handle_zoom():
+    return oauth.homepage()
 
 @app.route("/", methods=["POST", "GET"])
 def handle_request():
@@ -115,6 +120,6 @@ def handle_request():
     return res
 
 if __name__ == "__main__":
-  app.run(host='0.0.0.0', port='5001', debug=True)
+  app.run(host='0.0.0.0', port='65010', debug=True)
 
   
